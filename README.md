@@ -19,7 +19,7 @@ I have developed a responsive personal portfolio website showcasing my skills an
   - Check out my portfolio website here to get a glimpse of my work and learn more about my skills and services.
 
 ## Website Link:
-  - [MY Website Link](https://silly-centaur-d3d421.netlify.app/)
+  - [MY Website Link](https://skagrawal007.github.io/My-Portfolio/)
     
 
 <h1>Author- Suraj Kumar</h1>
