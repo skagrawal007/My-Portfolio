@@ -1,4 +1,4 @@
-# My Personal Portfolio Website
+# My Portfolio Website
 
 I have developed a responsive personal portfolio website showcasing my skills and projects. The front-end of the website is crafted using HTML, CSS, and Javascript. The website is designed to be fully responsive, ensuring a seamless experience across various devices.
 
@@ -20,7 +20,6 @@ I have developed a responsive personal portfolio website showcasing my skills an
 
 ## Website Link:
   - [MY Website Link](https://silly-centaur-d3d421.netlify.app/)
+    
 
-Feel free to explore, and don't hesitate to reach out for collaboration or inquiries.
-
-<h1>Author- Shivang Baranwal</h1>
+<h1>Author- Suraj Kumar</h1>
