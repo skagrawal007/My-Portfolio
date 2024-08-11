@@ -12,7 +12,7 @@ I have developed a responsive personal portfolio website showcasing my skills an
   - The portfolio website features a well-designed navigation bar for easy navigation.
 
 - **Sections:**
-  - Organized content into distinct sections, including Home, About, Skills, Service, Contact, Download CV button, and Hire Me button.
+  - Organized content into distinct sections, including Home, About, Skills,Project, Contact, Download CV button.
 
 ## Explore My Portfolio:
 
